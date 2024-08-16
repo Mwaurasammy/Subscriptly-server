@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": "d23f",
+      "name": "sammy",
+      "email": "sammy@gmail.com",
+      "password": "1234",
+      "subscriptions": [
+        {
+          "name": "yogurt",
+          "category": "software",
+          "cost": "7",
+          "billing_cycle": "weekly",
+          "date_of_payment": "2024-08-11",
+          "id": "4"
+        }
+      ]
+    },
+    {
+      "id": "65c8",
+      "name": "Ian",
+      "email": "ian@gmail.com",
+      "password": "123",
+      "subscriptions": [
+        {
+          "id": "1fa1",
+          "name": "Hulu",
+          "category": "Streaming",
+          "cost": 7.99,
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-07-30"
+        },
+        {
+          "id": "06a8",
+          "name": "PUBG",
+          "category": "Gaming",
+          "cost": 10,
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-07-31"
+        }
+      ]
+    },
+    {
+      "id": "6b59",
+      "name": "Sharon",
+      "email": "sharon@gmail.com",
+      "password": "1234",
+      "subscriptions": [
+        {
+          "id": "7",
+          "name": "Hulu",
+          "category": "Streaming",
+          "cost": 15,
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-08-01"
+        }
+      ]
+    },
+    {
+      "id": "9d4e",
+      "name": "Wahu",
+      "email": "wahu@example.com",
+      "password": "1234",
+      "subscriptions": [
+        {
+          "id": "8",
+          "name": "ShowMax",
+          "category": "Streaming",
+          "cost": 15,
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-08-15"
+        },
+        {
+          "id": "9",
+          "name": "PUBG",
+          "category": "Gaming",
+          "cost": 10,
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-08-13"
+        }
+      ]
+    },
+    {
+      "id": "0d42",
+      "name": "john",
+      "email": "john@gmail.com",
+      "password": "123",
+      "subscriptions": [
+        {
+          "name": "spotify",
+          "category": "music",
+          "cost": "10",
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-08-15",
+          "id": "1"
+        },
+        {
+          "name": "Milk",
+          "category": "shopping",
+          "cost": "30",
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-08-01",
+          "id": "3"
+        },
+        {
+          "name": "bucket",
+          "category": "software",
+          "cost": "3",
+          "billing_cycle": "monthly",
+          "date_of_payment": "2024-07-10",
+          "id": "4"
+        },
+        {
+          "name": "roronoa zoro",
+          "category": "software",
+          "cost": "5",
+          "billing_cycle": "weekly",
+          "date_of_payment": "2024-08-08",
+          "id": "5"
+        }
+      ]
+    }
+  ]
+}
+
